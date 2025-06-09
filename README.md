@@ -1,4 +1,4 @@
-# Agencia de viajes
+# ✈️ Agencia de viajes ✈️
 
 ### 📋 Descripción principal acerca del Programa 📋
 
@@ -11,8 +11,8 @@
 - Se indicará por pantalla cuanto dinero tiene que pagar cada viajero y,en caso de que exista la posibilidad, tambien nos indicará cuanto dinero debe recibir un viajero por los gastos adicionales.
 - Para eliminar un viajero pulsaremos -1.
 
-### Colaboradores
-1.👱‍♂️ Daniel Illana Alba
-2.🧑 Luis Miguel Sánchez Heredia
-3.👩‍🦲 Santiago Andrés Cardona Martínez
-4.🧔 Rafael Alcántara Jiménez
+### 👷‍♂️ Colaboradores 👷
+👱‍♂️ Daniel Illana Alba\
+🧑 Luis Miguel Sánchez Heredia\
+👩‍🦲 Santiago Andrés Cardona Martínez\
+🧔 Rafael Alcántara Jiménez
